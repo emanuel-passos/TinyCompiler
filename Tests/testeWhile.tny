@@ -1,0 +1,9 @@
+read entrada;
+x := 0;
+soma := 0;
+
+while x < entrada
+    soma := soma + 1;
+endwhile
+
+write soma;
